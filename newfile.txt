@@ -3,3 +3,4 @@ to swifth branch: `git checkout <branchName>
 To merge branch: `git merge <branchName>` (merges another branch to current br.)
 git log --oneline
 Work1
+work2

@@ -2,3 +2,4 @@ To create new branch: `git checkout -b test`
 to swifth branch: `git checkout <branchName>
 To merge branch: `git merge <branchName>` (merges another branch to current br.)
 git log --oneline
+work2

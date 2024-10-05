@@ -1,1 +1,2 @@
 Adding text to new file
+Adding new line
